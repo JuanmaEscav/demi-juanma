@@ -26,6 +26,11 @@
 	height: 160px;
 }
 
+#logoimage {
+	position: absolute; 
+	top:20%;
+}
+
 #logo h1 a {
 	display: block;
 	padding: 30px 0px 0px 0px;
